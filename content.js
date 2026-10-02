@@ -530,6 +530,21 @@ window.portfolioContent = {
       }
     },
     {
+      "id": "enerwise-workflow",
+      "src": "/assets/enerwise/platform-workflow.png",
+      "group": "enerwise",
+      "shape": "landscape",
+      "tool": "ENERWISE / Integrated workflow",
+      "en": {
+        "title": "How ENERWISE works",
+        "caption": "Three modules — energy optimization, carbon management and heat integration — can be used independently or together, from plant data to opportunities, OPEX/CAPEX screening and reporting."
+      },
+      "fr": {
+        "title": "Comment fonctionne ENERWISE",
+        "caption": "Trois modules — optimisation énergétique, gestion carbone et intégration thermique — utilisables séparément ou ensemble, des données du site à l’identification des opportunités, à l’évaluation OPEX/CAPEX et au reporting."
+      }
+    },
+    {
       "id": "enerwise-energy",
       "src": "/assets/enerwise/refinery-energy-dashboard.png",
       "group": "enerwise",

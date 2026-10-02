@@ -37,3 +37,5 @@ header{border-bottom:1px solid var(--line);position:sticky;top:0;z-index:20;back
 @media print{.management-hero{grid-template-columns:1fr 1.5fr}.management-skills-grid{grid-template-columns:repeat(3,minmax(0,1fr))}.management-project,.management-skills-grid article{break-inside:avoid}}
 
 .standards-band{display:flex;align-items:center;justify-content:space-between;gap:24px;padding:21px 0;margin:-5px 0 32px;border-block:1px solid var(--line)}.standards-band h2{font:22px/1.35 var(--serif);max-width:390px}.standards-band ul{display:flex;flex-wrap:wrap;gap:10px;list-style:none;padding:0;margin:0}.standards-band li{font-size:14px;line-height:1.5;border:1px solid #a6b699;padding:7px 14px;white-space:nowrap}.page-utilities .standards-band{border-color:#58726a}.page-utilities .standards-band li{border-color:#789085}@media(max-width:700px){.standards-band{display:block;padding:19px 0;margin-bottom:25px}.standards-band h2{font-size:23px;max-width:none}.standards-band ul{margin-top:15px;gap:9px}.standards-band li{font-size:14px;padding:7px 13px}}
+
+.enerwise-workflow{margin:0 0 36px}.enerwise-workflow .figure-open{aspect-ratio:1497/806;background:#fff;padding:0}

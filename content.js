@@ -179,7 +179,11 @@ window.portfolioContent = {
       "homeManagementDesc": "PMP® · Primavera P6 · Team coordination · Stakeholder engagement",
       "viewManagement": "Explore project management",
       "processStandardsTitle": "Standards & specifications",
-      "utilitiesStandardsTitle": "Quality & energy management standards"
+      "utilitiesStandardsTitle": "Quality & energy management standards",
+      "certificationsLabel": "PROFESSIONAL CREDENTIALS",
+      "certificationsTitle": "Certifications",
+      "certificationsIntro": "Process simulation, energy management and project delivery.",
+      "viewCertificate": "View certificate"
     },
     "fr": {
       "skip": "Aller au contenu",
@@ -360,7 +364,11 @@ window.portfolioContent = {
       "homeManagementDesc": "PMP® · Primavera P6 · Coordination des équipes · Parties prenantes",
       "viewManagement": "Découvrir la gestion de projets",
       "processStandardsTitle": "Normes & spécifications",
-      "utilitiesStandardsTitle": "Normes de management de la qualité & de l’énergie"
+      "utilitiesStandardsTitle": "Normes de management de la qualité & de l’énergie",
+      "certificationsLabel": "QUALIFICATIONS PROFESSIONNELLES",
+      "certificationsTitle": "Certifications",
+      "certificationsIntro": "Simulation des procédés, management de l’énergie et gestion de projets.",
+      "viewCertificate": "Voir le certificat"
     }
   },
   "figures": [
@@ -662,6 +670,66 @@ window.portfolioContent = {
       "fr": {
         "title": "Planification des études & de l’exécution",
         "caption": "Activités, dépendances et jalons des études, achats et travaux."
+      }
+    },
+    {
+      "id": "certificate-aceu",
+      "src": "/assets/certificates/aspen-hysys-expert-user.png",
+      "group": "certifications",
+      "shape": "landscape",
+      "tool": "AspenTech University",
+      "en": {
+        "title": "Aspen Certified Expert User",
+        "caption": "Aspen HYSYS · Issued 25 February 2026 · Valid through 25 February 2029."
+      },
+      "fr": {
+        "title": "Aspen Certified Expert User",
+        "caption": "Aspen HYSYS · Délivré le 25 février 2026 · Valable jusqu’au 25 février 2029."
+      }
+    },
+    {
+      "id": "certificate-acu",
+      "src": "/assets/certificates/aspen-hysys-certified-user.png",
+      "group": "certifications",
+      "shape": "landscape",
+      "tool": "AspenTech University",
+      "en": {
+        "title": "Aspen Certified User",
+        "caption": "Aspen HYSYS · Issued 26 January 2026 · Valid through 26 January 2029."
+      },
+      "fr": {
+        "title": "Aspen Certified User",
+        "caption": "Aspen HYSYS · Délivré le 26 janvier 2026 · Valable jusqu’au 26 janvier 2029."
+      }
+    },
+    {
+      "id": "certificate-cem",
+      "src": "/assets/certificates/certified-energy-manager.jpg",
+      "group": "certifications",
+      "shape": "landscape",
+      "tool": "Association of Energy Engineers",
+      "en": {
+        "title": "Certified Energy Manager (CEM®)",
+        "caption": "Energy management · Valid from 13 January 2025 through 30 June 2028."
+      },
+      "fr": {
+        "title": "Certified Energy Manager (CEM®)",
+        "caption": "Management de l’énergie · Valable du 13 janvier 2025 au 30 juin 2028."
+      }
+    },
+    {
+      "id": "certificate-pmp",
+      "src": "/assets/certificates/project-management-professional.png",
+      "group": "certifications",
+      "shape": "landscape",
+      "tool": "Project Management Institute",
+      "en": {
+        "title": "Project Management Professional (PMP®)",
+        "caption": "Project management · Issued 13 June 2025 · Valid through 13 June 2028."
+      },
+      "fr": {
+        "title": "Project Management Professional (PMP®)",
+        "caption": "Management de projets · Délivré le 13 juin 2025 · Valable jusqu’au 13 juin 2028."
       }
     }
   ],

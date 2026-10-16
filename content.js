@@ -183,7 +183,18 @@ window.portfolioContent = {
       "certificationsLabel": "PROFESSIONAL CREDENTIALS",
       "certificationsTitle": "Certifications",
       "certificationsIntro": "Process simulation, energy management and project delivery.",
-      "viewCertificate": "View certificate"
+      "viewCertificate": "View certificate",
+      "softwareLabel": "ENGINEERING TOOLKIT",
+      "softwareTitle": "Software & programming",
+      "softwareIntro": "Process simulation, safety studies, project planning and engineering software development.",
+      "levelExpert": "Expert",
+      "levelProfessional": "Professional",
+      "levelIntermediate": "Intermediate",
+      "levelBeginner": "Beginner",
+      "levelDeveloper": "Developer & Expert",
+      "pythonRole": "Programming",
+      "softwareDevelopment": "I develop ENERWISE in Python for industrial energy optimization, carbon management and heat integration.",
+      "softwareExplore": "Explore ENERWISE"
     },
     "fr": {
       "skip": "Aller au contenu",
@@ -368,7 +379,18 @@ window.portfolioContent = {
       "certificationsLabel": "QUALIFICATIONS PROFESSIONNELLES",
       "certificationsTitle": "Certifications",
       "certificationsIntro": "Simulation des procédés, management de l’énergie et gestion de projets.",
-      "viewCertificate": "Voir le certificat"
+      "viewCertificate": "Voir le certificat",
+      "softwareLabel": "OUTILS D’INGÉNIERIE",
+      "softwareTitle": "Logiciels & programmation",
+      "softwareIntro": "Simulation des procédés, études de sécurité, planification et développement de logiciels d’ingénierie.",
+      "levelExpert": "Expert",
+      "levelProfessional": "Professionnel",
+      "levelIntermediate": "Intermédiaire",
+      "levelBeginner": "Débutant",
+      "levelDeveloper": "Développeur & Expert",
+      "pythonRole": "Programmation",
+      "softwareDevelopment": "Je développe ENERWISE en Python pour l’optimisation énergétique industrielle, la gestion carbone et l’intégration thermique.",
+      "softwareExplore": "Découvrir ENERWISE"
     }
   },
   "figures": [
